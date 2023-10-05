@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NycSchoolsSatScores</string>
+    <string name="sort">sort:</string>
+    <string name="SAT_data">SAT scores</string>
+    <string name="reading">Reading:</string>
+    <string name="math">Math:</string>
+    <string name="writing">Writing:</string>
+    <string name="dialog_title">SAT Scores</string>
+    <string name="test_takers">Number of test takers:</string>
+    <string name="button_text">View schools</string>
+    <string name="noSatData">No SAT data available for this school</string>
+    <string name="notAvailable">n/a</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="connection_error">Connection error</string>
+
+</resources>

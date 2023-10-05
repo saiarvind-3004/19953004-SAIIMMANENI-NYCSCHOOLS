@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#229900</color>
+    <color name="colorPrimaryDark">#224400</color>
+    <color name="colorAccent">#EE0</color>
+
+    <color name="viewBack">#9291</color>
+    <color name="schoolName">#333</color>
+    <color name="detail">#555</color>
+</resources>
